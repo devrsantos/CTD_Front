@@ -1,0 +1,46 @@
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+.card1 {
+    background-color: rgb(247, 10, 10);
+    height: 150px;
+    width: 350px;
+    position: flex;
+}
+
+.card2 {
+    background-color: rgb(230, 153, 11);
+    height: 150px;
+    width: 350px;
+    position: flex;
+}
+
+.card3 {
+    background-color: rgb(141, 141, 11);
+    height: 150px;
+    width: 350px;
+    position: flex;
+}
+
+.card4 {
+    background-color: rgb(87, 219, 87);
+    height: 150px;
+    width: 350px;
+    position: flex;
+}
+
+.card5 {
+    background-color: rgb(18, 18, 231);
+    height: 150px;
+    width: 350px;
+    position: flex;
+}
+
+.card6 {
+    background-color: rgb(167, 15, 167);
+    height: 150px;
+    width: 350px;
+    position: flex;
+}
